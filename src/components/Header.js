@@ -9,6 +9,9 @@ const Header = () => {
       <div className="logo">
       <img src={iconfit} alt="iconfit" style={{color: 'white'}}/>
       </div>
+      <div style={{fontSize: 35, fontFamily: 'fantasy', color: '#FCF55F'}}>
+        GO-FIT
+      </div>
       <UserProfile />
     </header>
   );

@@ -6,9 +6,12 @@ const VideoCard = ({ videoData }) => {
     return null;
   }
 
+  // Ensure the video URL is served over HTTPS
+  const secureVideoUrl = videoData.video.replace('http://', 'https://');
+
   return (
     <div className="video-card">
-      <iframe src={videoData.video} title={videoData.heading} />
+      <iframe src={secureVideoUrl} title={videoData.heading} />
       <h2 className="video-title">{videoData.heading}</h2>
       <div className="tags">
         {videoData.tags.map((tag, index) => (

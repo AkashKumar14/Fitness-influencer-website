@@ -17,7 +17,7 @@ const SearchBar = () => {
         .get('https://asia-south1-socialboat-dev.cloudfunctions.net/assignmentVideos', {
           params: {
             q: query,
-            numResults: 10,
+            numResults: 15,
           },
         })
         .then((response) => {
