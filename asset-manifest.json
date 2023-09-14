@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fitness-react/static/css/main.7d776b93.css",
+    "main.js": "/Fitness-react/static/js/main.5fff83c7.js",
+    "index.html": "/Fitness-react/index.html",
+    "main.7d776b93.css.map": "/Fitness-react/static/css/main.7d776b93.css.map",
+    "main.5fff83c7.js.map": "/Fitness-react/static/js/main.5fff83c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d776b93.css",
+    "static/js/main.5fff83c7.js"
+  ]
+}
