@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Fitness-influencer-website/static/css/main.7d776b93.css",
-    "main.js": "/Fitness-influencer-website/static/js/main.5fff83c7.js",
+    "main.css": "/Fitness-influencer-website/static/css/main.1458075e.css",
+    "main.js": "/Fitness-influencer-website/static/js/main.01bf6821.js",
     "index.html": "/Fitness-influencer-website/index.html",
-    "main.7d776b93.css.map": "/Fitness-influencer-website/static/css/main.7d776b93.css.map",
-    "main.5fff83c7.js.map": "/Fitness-influencer-website/static/js/main.5fff83c7.js.map"
+    "main.1458075e.css.map": "/Fitness-influencer-website/static/css/main.1458075e.css.map",
+    "main.01bf6821.js.map": "/Fitness-influencer-website/static/js/main.01bf6821.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d776b93.css",
-    "static/js/main.5fff83c7.js"
+    "static/css/main.1458075e.css",
+    "static/js/main.01bf6821.js"
   ]
 }
